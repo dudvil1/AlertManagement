@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.ServiceHost", "AlertManagement.ServiceHost.csproj", "{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.CacheService", "..\AlertManagement.CacheService\AlertManagement.CacheService.csproj", "{5469719A-75E2-4C8C-B979-07B42652D714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.FlightsQueueService", "..\AlertManagement.FlightsQueueService\AlertManagement.FlightsQueueService.csproj", "{E55976FC-27CB-476F-B92F-4348FCD0B747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.AlertsQueueListener", "..\AlertManagement.AlertsQueueListener\AlertManagement.AlertsQueueListener.csproj", "{2F26A31C-6A19-42A0-A8C1-7240170804D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.DbService", "..\AlertManagement.DbService\AlertManagement.DbService.csproj", "{519B4059-1DAD-4D9A-8FFA-80047BEE5296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.PushService", "..\AlertManagement.PushService\AlertManagement.PushService.csproj", "{A297D281-5B5E-4E5C-9493-500DE0C9BA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.AddAlert.AlertModels", "..\AlertManagement.AddAlert.AlertModels\AlertManagement.AddAlert.AlertModels.csproj", "{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.AddAlert.AlertBusinessLogic", "..\AlertManagement.AddAlert.AlertBusinessLogic\AlertManagement.AddAlert.AlertBusinessLogic.csproj", "{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertManagement.AddAlert.AlertController", "..\AlertManagement.AddAlert.AlertController\AlertManagement.AddAlert.AlertController.csproj", "{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5469719A-75E2-4C8C-B979-07B42652D714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5469719A-75E2-4C8C-B979-07B42652D714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5469719A-75E2-4C8C-B979-07B42652D714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5469719A-75E2-4C8C-B979-07B42652D714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E55976FC-27CB-476F-B92F-4348FCD0B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55976FC-27CB-476F-B92F-4348FCD0B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55976FC-27CB-476F-B92F-4348FCD0B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55976FC-27CB-476F-B92F-4348FCD0B747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F26A31C-6A19-42A0-A8C1-7240170804D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F26A31C-6A19-42A0-A8C1-7240170804D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F26A31C-6A19-42A0-A8C1-7240170804D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F26A31C-6A19-42A0-A8C1-7240170804D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519B4059-1DAD-4D9A-8FFA-80047BEE5296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519B4059-1DAD-4D9A-8FFA-80047BEE5296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519B4059-1DAD-4D9A-8FFA-80047BEE5296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519B4059-1DAD-4D9A-8FFA-80047BEE5296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A297D281-5B5E-4E5C-9493-500DE0C9BA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A297D281-5B5E-4E5C-9493-500DE0C9BA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A297D281-5B5E-4E5C-9493-500DE0C9BA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A297D281-5B5E-4E5C-9493-500DE0C9BA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85DC830D-772D-45D7-A93F-A85B5AEFFD18}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\bin\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\bin\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\bin\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\bin\Debug\net8.0\AlertManagement.AddAlert.AlertModels.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\bin\Debug\net8.0\AlertManagement.AddAlert.AlertModels.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertMan.6918AE41.Up2Date
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\refint\AlertManagement.AddAlert.AlertBusinessLogic.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\AlertManagement.AddAlert.AlertBusinessLogic.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertBusinessLogic\obj\Debug\net8.0\ref\AlertManagement.AddAlert.AlertBusinessLogic.dll

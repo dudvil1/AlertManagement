@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.ServiceHost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}|AlertManagement.ServiceHost.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F5DFC2-A0E6-45CA-ABA7-EBC57852DDEB}|AlertManagement.ServiceHost.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}|..\\AlertManagement.AddAlert.AlertController\\AlertManagement.AddAlert.AlertController.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}|..\\AlertManagement.AddAlert.AlertController\\AlertManagement.AddAlert.AlertController.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertcontroller\\extensions\\jwtmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}|..\\AlertManagement.AddAlert.AlertController\\AlertManagement.AddAlert.AlertController.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertcontroller\\extensions\\businesslogicextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}|..\\AlertManagement.AddAlert.AlertBusinessLogic\\AlertManagement.AddAlert.AlertBusinessLogic.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertbusinesslogic\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E49556-B4C7-48B9-A0D0-A69E9EE1ECA3}|..\\AlertManagement.AddAlert.AlertController\\AlertManagement.AddAlert.AlertController.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertcontroller\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E0E9AD-614C-422E-B9D7-15EC0E083A6C}|..\\AlertManagement.AddAlert.AlertBusinessLogic\\AlertManagement.AddAlert.AlertBusinessLogic.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertbusinesslogic\\interfaces\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}|..\\AlertManagement.AddAlert.AlertModels\\AlertManagement.AddAlert.AlertModels.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertmodels\\alertmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFD32C-359E-4F5F-B8D8-4663FDC58286}|..\\AlertManagement.AddAlert.AlertModels\\AlertManagement.AddAlert.AlertModels.csproj|c:\\users\\dudu\\desktop\\github\\alertmanagement\\alertmanagement.addalert.alertmodels\\alertmodels\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertController\\Program.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Program.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:06:39.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Extensions\\JwtMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertController\\Extensions\\JwtMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Extensions\\JwtMiddlewareExtensions.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertController\\Extensions\\JwtMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:03:44.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.ServiceHost\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:48:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessLogicExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Extensions\\BusinessLogicExtensions.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertController\\Extensions\\BusinessLogicExtensions.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Extensions\\BusinessLogicExtensions.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertController\\Extensions\\BusinessLogicExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:47:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlertService.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertBusinessLogic\\Services\\AlertService.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertBusinessLogic\\Services\\AlertService.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertBusinessLogic\\Services\\AlertService.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertBusinessLogic\\Services\\AlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:41:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlertService.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertBusinessLogic\\Interfaces\\IAlertService.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertBusinessLogic\\Interfaces\\IAlertService.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertBusinessLogic\\Interfaces\\IAlertService.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertBusinessLogic\\Interfaces\\IAlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:40:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlertsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Controllers\\AlertsController.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertController\\Controllers\\AlertsController.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertController\\Controllers\\AlertsController.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertController\\Controllers\\AlertsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:35:25.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertModels\\AlertModels\\User.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertModels\\AlertModels\\User.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertModels\\AlertModels\\User.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertModels\\AlertModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:29:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertModels\\AlertModels\\Alert.cs",
+              "RelativeDocumentMoniker": "..\\AlertManagement.AddAlert.AlertModels\\AlertModels\\Alert.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AddAlert.AlertModels\\AlertModels\\Alert.cs",
+              "RelativeToolTip": "..\\AlertManagement.AddAlert.AlertModels\\AlertModels\\Alert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:28:43.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

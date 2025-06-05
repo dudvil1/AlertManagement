@@ -1,0 +1,13 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\bin\Debug\net8.0\AlertManagement.FlightsQueueService.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\bin\Debug\net8.0\AlertManagement.FlightsQueueService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\bin\Debug\net8.0\AlertManagement.FlightsQueueService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\refint\AlertManagement.FlightsQueueService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\AlertManagement.FlightsQueueService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.FlightsQueueService\obj\Debug\net8.0\ref\AlertManagement.FlightsQueueService.dll

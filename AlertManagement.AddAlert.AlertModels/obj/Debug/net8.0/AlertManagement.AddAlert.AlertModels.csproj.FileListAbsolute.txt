@@ -1,0 +1,12 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\bin\Debug\net8.0\AlertManagement.AddAlert.AlertModels.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\bin\Debug\net8.0\AlertManagement.AddAlert.AlertModels.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\bin\Debug\net8.0\AlertManagement.AddAlert.AlertModels.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\refint\AlertManagement.AddAlert.AlertModels.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\AlertManagement.AddAlert.AlertModels.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AddAlert.AlertModels\obj\Debug\net8.0\ref\AlertManagement.AddAlert.AlertModels.dll

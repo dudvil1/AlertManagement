@@ -1,0 +1,13 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\bin\Debug\net8.0\AlertManagement.CacheService.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\bin\Debug\net8.0\AlertManagement.CacheService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\bin\Debug\net8.0\AlertManagement.CacheService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\refint\AlertManagement.CacheService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\AlertManagement.CacheService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.CacheService\obj\Debug\net8.0\ref\AlertManagement.CacheService.dll

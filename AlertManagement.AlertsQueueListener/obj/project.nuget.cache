@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVg89nODTao=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.AlertsQueueListener\\AlertManagement.AlertsQueueListener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.5\\microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.5\\microsoft.extensions.diagnostics.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.5\\microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.5\\microsoft.extensions.hosting.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.5\\microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.options\\9.0.5\\microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\stackexchange.redis\\2.8.37\\stackexchange.redis.2.8.37.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.5\\system.diagnostics.diagnosticsource.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

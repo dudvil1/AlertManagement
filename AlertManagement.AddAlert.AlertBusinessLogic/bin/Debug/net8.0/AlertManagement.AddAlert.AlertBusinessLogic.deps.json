@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlertManagement.AddAlert.AlertBusinessLogic/1.0.0": {
+        "dependencies": {
+          "AlertManagement.AddAlert.AlertModels": "1.0.0"
+        },
+        "runtime": {
+          "AlertManagement.AddAlert.AlertBusinessLogic.dll": {}
+        }
+      },
+      "AlertManagement.AddAlert.AlertModels/1.0.0": {
+        "runtime": {
+          "AlertManagement.AddAlert.AlertModels.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlertManagement.AddAlert.AlertBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlertManagement.AddAlert.AlertModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "07eSVjQvCMI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.FlightsQueueService\\AlertManagement.FlightsQueueService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.5\\microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

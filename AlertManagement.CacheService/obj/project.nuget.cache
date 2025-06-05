@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "adbCbdcw2n0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dudu\\Desktop\\GitHub\\AlertManagement\\AlertManagement.CacheService\\AlertManagement.CacheService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.5\\microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\stackexchange.redis\\2.8.37\\stackexchange.redis.2.8.37.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

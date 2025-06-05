@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlertManagement.AddAlert.AlertModels/1.0.0": {
+        "runtime": {
+          "AlertManagement.AddAlert.AlertModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlertManagement.AddAlert.AlertModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

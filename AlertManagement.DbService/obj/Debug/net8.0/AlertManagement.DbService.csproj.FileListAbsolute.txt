@@ -1,0 +1,12 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\bin\Debug\net8.0\AlertManagement.DbService.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\bin\Debug\net8.0\AlertManagement.DbService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\bin\Debug\net8.0\AlertManagement.DbService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\refint\AlertManagement.DbService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\AlertManagement.DbService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.DbService\obj\Debug\net8.0\ref\AlertManagement.DbService.dll

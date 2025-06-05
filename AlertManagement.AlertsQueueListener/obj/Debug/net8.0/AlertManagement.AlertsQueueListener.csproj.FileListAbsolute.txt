@@ -1,0 +1,16 @@
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\bin\Debug\net8.0\AlertManagement.AlertsQueueListener.deps.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\bin\Debug\net8.0\AlertManagement.AlertsQueueListener.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\bin\Debug\net8.0\AlertManagement.AlertsQueueListener.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\bin\Debug\net8.0\AlertManagement.CacheService.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\bin\Debug\net8.0\AlertManagement.CacheService.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.sourcelink.json
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertMan.81D3D77A.Up2Date
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\refint\AlertManagement.AlertsQueueListener.dll
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\AlertManagement.AlertsQueueListener.pdb
+C:\Users\Dudu\Desktop\GitHub\AlertManagement\AlertManagement.AlertsQueueListener\obj\Debug\net8.0\ref\AlertManagement.AlertsQueueListener.dll
